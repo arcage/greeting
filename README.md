@@ -1,6 +1,6 @@
 # Greeting
 
-Hello, guys!
+This is just a sample repository for "Crystalの本2（仮）".
 
 ## Installation
 
@@ -22,4 +22,4 @@ Greeting.hello("John") #=> "Hello, John!"
 
 ## Contributors
 
-- [arcage](https://github.com/arcage) ʕ·ᴥ·ʔAKJ - creator, maintainer
+- [arcage](https://github.com/arcage) AKJ - creator, maintainer

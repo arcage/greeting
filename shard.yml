@@ -2,8 +2,8 @@ name: greeting
 version: 0.1.0
 
 authors:
-  - ʕ·ᴥ·ʔAKJ <arcage@denchu.org>
+  - AKJ <arcage@denchu.org>
 
-crystal: 0.20.5
+crystal: 0.21.0
 
 license: MIT
